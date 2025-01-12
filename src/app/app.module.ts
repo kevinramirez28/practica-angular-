@@ -19,6 +19,7 @@ import { CUSTOM_ELEMENTS_SCHEMA, NgModule } from '@angular/core';
   providers: [
 
   ],
-  schemas: [CUSTOM_ELEMENTS_SCHEMA]
+
 })
 export class AppModule { }
+
